@@ -1,0 +1,14 @@
+D:\VSCode\Projetos.dio\bin\Debug\net8.0\Projetos.dio.exe
+D:\VSCode\Projetos.dio\bin\Debug\net8.0\Projetos.dio.deps.json
+D:\VSCode\Projetos.dio\bin\Debug\net8.0\Projetos.dio.runtimeconfig.json
+D:\VSCode\Projetos.dio\bin\Debug\net8.0\Projetos.dio.dll
+D:\VSCode\Projetos.dio\bin\Debug\net8.0\Projetos.dio.pdb
+D:\VSCode\Projetos.dio\obj\Debug\net8.0\Projetos.dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Projetos.dio\obj\Debug\net8.0\Projetos.dio.AssemblyInfoInputs.cache
+D:\VSCode\Projetos.dio\obj\Debug\net8.0\Projetos.dio.AssemblyInfo.cs
+D:\VSCode\Projetos.dio\obj\Debug\net8.0\Projetos.dio.csproj.CoreCompileInputs.cache
+D:\VSCode\Projetos.dio\obj\Debug\net8.0\Projetos.dio.dll
+D:\VSCode\Projetos.dio\obj\Debug\net8.0\refint\Projetos.dio.dll
+D:\VSCode\Projetos.dio\obj\Debug\net8.0\Projetos.dio.pdb
+D:\VSCode\Projetos.dio\obj\Debug\net8.0\Projetos.dio.genruntimeconfig.cache
+D:\VSCode\Projetos.dio\obj\Debug\net8.0\ref\Projetos.dio.dll
